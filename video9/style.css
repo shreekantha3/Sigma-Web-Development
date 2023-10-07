@@ -1,0 +1,25 @@
+/* classes are represented css started with point */
+
+
+.red{
+    background-color: red;
+}
+
+.bg.yellow{
+    background-color: yellow;
+}
+
+
+/* # means id to represent in css */
+
+#firstdev{
+    background-color: aqua;
+}
+
+#seconddev{
+    background-color: seagreen;
+}
+
+#thirddev{
+    background-color: chartreuse;
+}
