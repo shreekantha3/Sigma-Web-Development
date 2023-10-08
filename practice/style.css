@@ -1,0 +1,19 @@
+th{
+    background-color: beige;
+}
+
+td{
+   text-align: center;
+    background-color: beige;
+}
+
+
+table{
+   border: 2px solid;
+    
+}
+
+caption{
+    padding: 10px;
+    caption-side: bottom;
+}
