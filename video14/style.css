@@ -1,5 +1,12 @@
-div{
+div {
     color: green;
     background-color: yellow;
+}
+
+p {
+    width: 100px;
+    height: 100px;
+    padding: 40px;
+    border: 1px solid;
 }
 
