@@ -1,5 +1,7 @@
 p{
     background-color: red;
+    background: lightblue;
+
 }
 
 a{
@@ -14,3 +16,5 @@ div{
 span{
     background-color: blueviolet;
 }
+
+
